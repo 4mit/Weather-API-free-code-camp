@@ -1,0 +1,15 @@
+body{
+    background-image: url("http://www.weatherchannelforecast.com/wp-content/uploads/2016/04/150304131759-extreme-weather-bg-light-full-169.jpg");    
+    }
+#data{
+    background-color: beige;
+    height: 40px;
+    width: 200px;
+    }
+.data-well{
+  margin:100px;
+  padding:100px;        
+    }
+.well{
+  background-color: transparent;
+}  
